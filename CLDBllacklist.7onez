@@ -1,5 +1,5 @@
 ! Title: Chong Lua Dao Blacklist (AdGuard)
-! Updated: 05/26/2023, 23:31:48
+! Updated: 08/19/2023, 04:57:51
 ! Expires: 1 day (update frequency)
 ! Homepage: https:chongluadao.vn
 ! License: https:chongluadao.vn
@@ -2718,7 +2718,6 @@
 ||xs225.com$all
 ||phimlatmat5.com$all
 ||doicardre.com$all
-||edupay.asia$all
 ||chanle247.com$all
 ||adtask.vip$all
 ||chanle88.club$all
@@ -3506,7 +3505,6 @@
 ||khophanmem24h.com$all
 ||khuyenkhichsangtaoviet.net$all
 ||leanhtien.net$all
-||letuan.edu.vn$all
 ||listnhacai.com$all
 ||lucdiahoanmy.vn$all
 ||ngoahotanglong.vn$all
@@ -16832,3 +16830,21 @@
 ||ocbvnc.com$all
 ||vn-sh.xyz$all
 ||visafe.cc$all
+||riotbweb.com$all
+||ticketbox.tv$all
+||dichvucongbaohiemxahoi.com$all
+||hdsaisonvay.com$all
+||hdssfn.online$all
+||nang-cap-khach-hang.com$all
+||vp-khach-hang-ca-nhan-the-visa.com.vn$all
+||vp-khach-hang-ca-nhan-the-visa.vp-khach-hang-ca-nhan-the-visa.com.vn$all
+||khach-hang-ca-nhan-techcombank-tin-dung.com$all
+||vp-khach-hang-ca-nhan-the-visa.com$all
+||vp-khach-hang-the-visa.com.vn$all
+||dang-ky-tin-dung-mbbank.com$all
+||dang-ky-tin-dung-techcombank.com$all
+||tin-dung-ngan-hang-vpbank.com$all
+||khach-hang-ca-nhan.site$all
+||rut-tien-the-tin-dung.online$all
+||dv-the-tin-dung.online$all
+||the-tin-dung-master-card.com$all
