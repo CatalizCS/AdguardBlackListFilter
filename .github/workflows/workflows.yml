@@ -4,6 +4,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 12 * * *' # runs at 12:00 UTC everyday
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -32,8 +34,8 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "update data" -a
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}"
           
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
