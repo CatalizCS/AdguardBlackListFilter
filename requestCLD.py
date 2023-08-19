@@ -29,7 +29,7 @@ def main():
         fin = url.sub('', i["url"]).strip().strip('/')
         fin = fin.replace('*.','')
         fin = fin.replace('/*','')
-        fin = fin + '$all'
+        fin = fin + '^'
       #  print(f'url Name:  {i["url"]}')
      #$   print(f'url Name:' +  fin)
         blacklist.append(fin)
