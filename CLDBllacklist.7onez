@@ -1,5 +1,5 @@
 ! Title: Chong Lua Dao Blacklist (AdGuard)
-! Updated: 09/05/2023, 12:32:59
+! Updated: 09/06/2023, 12:33:29
 ! Expires: 1 day (update frequency)
 ! Homepage: https:chongluadao.vn
 ! License: https:chongluadao.vn
@@ -16848,3 +16848,5 @@
 ||rut-tien-the-tin-dung.online^
 ||dv-the-tin-dung.online^
 ||the-tin-dung-master-card.com^
+||vingroupglobal.com^
+||vingroupinternational.vn^
