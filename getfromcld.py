@@ -21,7 +21,7 @@ def main():
         f.write('\n'.join(lines))
     
     blacklist=[]
-    urlData = "https://api.chongluadao.vn/v1/blacklist"
+    urlData = "https://api.chongluadao.vn/v2/blacklist"
     jsonData = getResponse(urlData)
     # print the state id and state name corresponding
     for i in jsonData:
